@@ -1,5 +1,8 @@
 ### Springboot initialzer application
 
+![1573150083214](https://github.com/epic-croswords/sonar-analysis-springboot/assets/138249606/73eed7ca-fb1f-4001-9ecb-70fc10523f44)
+
+
 ```
 <plugin>
   <groupId>org.jacoco</groupId>
